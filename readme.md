@@ -19,9 +19,9 @@ Please remember,
 ## Reference & Resources
 [*Data Structures and Algorithm Analysis in C*](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structures/dp/0201314525/ref=sr_1_1?ie=UTF8&qid=1491054293&sr=8-1&keywords=algorithm+in+c)
 
-[Tutorialspoint Overview]https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm
+[Tutorialspoint Overview](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm)
 
-[Hackerrank Dashboard]https://www.hackerrank.com/dashboard
+[Hackerrank Dashboard](https://www.hackerrank.com/dashboard)
 
 ## Contributer
 B.W.
