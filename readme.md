@@ -1,32 +1,28 @@
 # Data Structure and Algorithms
 
-B.W.      Sc44964
+## Introduction
 
-[TOC]
+Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way.
 
-## [Introduction]
+Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.
 
- 	Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way.
+Here in the club,we need to learn by ourself .Though I have found it's hard,difficult,tough......But nothing of great significance is easy to get .All we need to do is to  put all our will against here ,and it's amazing what can be achieved . 
 
-​	Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.
+So let's start the hard way .
 
-​	Here in the club,we need to learn by ourself .Though I have found it's hard,difficult,tough......But nothing of great significance is easy to get .All we need to do is to  put all our will against here ,and it's amazing what can be achieved . 
+Please remember,
 
-​     So let's start the hard way .
+所谓无底深渊，下去也是前程万里。
 
-​    Please remember,
+## Catalogue
 
-​    所谓无底深渊，下去也是前程万里。
+## Reference & Resources
+[*Data Structures and Algorithm Analysis in C*](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structures/dp/0201314525/ref=sr_1_1?ie=UTF8&qid=1491054293&sr=8-1&keywords=algorithm+in+c)
 
-​                                                                                           B.W.
+[Tutorialspoint Overview]https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm
 
-​                                                                                         2017.4.1
+[Hackerrank Dashboard]https://www.hackerrank.com/dashboard
 
-[Reference]:*Data Structures and Algorithm Analysis in C*
-
-[Website Resources]:
-
-https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm
-
-https://www.hackerrank.com/dashboard
-
+## Contributer
+B.W.
+Sc44964
